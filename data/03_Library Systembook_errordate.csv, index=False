@@ -1,0 +1,7 @@
+,Id,Books,Book checkout,Book Returned,Days allowed to borrow,Customer ID,intborrow
+1,2.0,Lord Of The Rings The Two Towers,2023-03-24,2023-03-21,2 weeks,2.0,14
+2,3.0,Lord Of The Rings The Return Of The Kind,2023-03-29,2023-03-25,2 weeks,3.0,14
+3,4.0,The Hobbit,2023-04-02,2023-03-25,2 weeks,4.0,14
+4,5.0,Dune ,2023-04-02,2023-03-25,2 weeks,5.0,14
+6,7.0,It,2063-04-10,2023-04-03,2 weeks,6.0,14
+7,8.0,Misery ,2023-04-15,2023-04-03,2 weeks,7.0,14
