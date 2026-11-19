@@ -41,6 +41,6 @@ sysbook["Book Returned"] = date_corrector(sysbook["Book Returned"])
 sysbook["datediff"] = datediff(sysbook["Book checkout"],sysbook["Book Returned"])
 sysbook = ok_books(sysbook)
 
-sysbook.to_csv(r"C:\Users\Admin\Desktop\20261117--DE5M5\data\03_Library Systembook_clean_3.csv, index=False")
+sysbook.to_csv(r"C:\Users\Admin\Desktop\20261117--DE5M5\day_4_final_task\data\03_Library Systembook_clean_3.csv", index=False)
 
-syscust.to_csv(r"C:\Users\Admin\Desktop\20261117--DE5M5\data\03_Library Systemcust_clean_3.csv, index=False")
+syscust.to_csv(r"C:\Users\Admin\Desktop\20261117--DE5M5\day_4_final_task\data\03_Library Systemcust_clean_3.csv", index=False)
